@@ -1,0 +1,10 @@
+.parent{
+    width: 50vh;
+    border: 1px solid black;
+    box-shadow: 0px 0px 10px black;
+    margin: auto;
+    margin-top: 15vh;
+    min-width: 370 px;
+    background-image: linear-gradient(red , yellow);
+
+}
